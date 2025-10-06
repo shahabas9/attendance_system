@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+python-jose
+passlib[bcrypt]
+pydantic[email]
+opencv-python
+deepface
+asyncpg
+python-multipart
+redis
+prometheus-client
